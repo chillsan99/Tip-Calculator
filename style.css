@@ -1,0 +1,19 @@
+*{
+    margin:0 auto;
+    text-align:center;
+    background-color:hsl(189, 41%, 97%)
+}
+
+.card{
+    padding:10px;
+    background-color:white;
+    width:250px;
+    height:40%;
+    border-radius:10px;
+    text-align: right;
+}
+
+
+.container .card2{
+
+}
